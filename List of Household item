@@ -1,0 +1,6 @@
+Console.WriteLine("List of Household items");
+console.writeline("1.Fans");
+console.writeline("2.chairs");
+console.writeline("3.water tanks");
+console.writeline("4.kitchen utensils");
+console.writeline("5.tv");
