@@ -8,3 +8,7 @@ console.writeline("5.tv");
 
 
 console.writeline("6.refrigerator");
+console.writeline("7. microwaves");
+
+
+
